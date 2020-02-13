@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\10. CreateCustomClassAttribute\bin\Debug\_10.CreateCustomClassAttribute.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\10. CreateCustomClassAttribute\bin\Debug\_10.CreateCustomClassAttribute.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\10. CreateCustomClassAttribute\bin\Debug\_10.CreateCustomClassAttribute.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\10. CreateCustomClassAttribute\obj\Debug\10. CreateCustomClassAttribute.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\10. CreateCustomClassAttribute\obj\Debug\_10.CreateCustomClassAttribute.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\10. CreateCustomClassAttribute\obj\Debug\_10.CreateCustomClassAttribute.pdb

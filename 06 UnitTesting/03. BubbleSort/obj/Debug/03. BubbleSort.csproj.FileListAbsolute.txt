@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\03. BubbleSort\bin\Debug\_03.BubbleSort.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\03. BubbleSort\bin\Debug\_03.BubbleSort.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\03. BubbleSort\bin\Debug\_03.BubbleSort.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\03. BubbleSort\obj\Debug\03. BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\03. BubbleSort\obj\Debug\_03.BubbleSort.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\03. BubbleSort\obj\Debug\_03.BubbleSort.pdb

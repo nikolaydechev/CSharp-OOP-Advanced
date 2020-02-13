@@ -1,0 +1,6 @@
+c:\users\nikolai\documents\visual studio 2015\Projects\Generics\(Lab) LabExercises\bin\Debug\(Lab) LabExercises.exe.config
+c:\users\nikolai\documents\visual studio 2015\Projects\Generics\(Lab) LabExercises\bin\Debug\(Lab) LabExercises.exe
+c:\users\nikolai\documents\visual studio 2015\Projects\Generics\(Lab) LabExercises\bin\Debug\(Lab) LabExercises.pdb
+c:\users\nikolai\documents\visual studio 2015\Projects\Generics\(Lab) LabExercises\obj\Debug\(Lab) LabExercises.csprojResolveAssemblyReference.cache
+c:\users\nikolai\documents\visual studio 2015\Projects\Generics\(Lab) LabExercises\obj\Debug\(Lab) LabExercises.exe
+c:\users\nikolai\documents\visual studio 2015\Projects\Generics\(Lab) LabExercises\obj\Debug\(Lab) LabExercises.pdb

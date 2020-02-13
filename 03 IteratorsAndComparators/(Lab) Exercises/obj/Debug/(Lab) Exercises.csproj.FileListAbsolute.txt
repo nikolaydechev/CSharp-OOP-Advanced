@@ -1,0 +1,6 @@
+c:\users\nikolai\documents\visual studio 2015\Projects\IteratorsAndComparators\(Lab) Exercises\bin\Debug\(Lab) Exercises.exe.config
+c:\users\nikolai\documents\visual studio 2015\Projects\IteratorsAndComparators\(Lab) Exercises\bin\Debug\(Lab) Exercises.exe
+c:\users\nikolai\documents\visual studio 2015\Projects\IteratorsAndComparators\(Lab) Exercises\bin\Debug\(Lab) Exercises.pdb
+c:\users\nikolai\documents\visual studio 2015\Projects\IteratorsAndComparators\(Lab) Exercises\obj\Debug\(Lab) Exercises.csprojResolveAssemblyReference.cache
+c:\users\nikolai\documents\visual studio 2015\Projects\IteratorsAndComparators\(Lab) Exercises\obj\Debug\(Lab) Exercises.exe
+c:\users\nikolai\documents\visual studio 2015\Projects\IteratorsAndComparators\(Lab) Exercises\obj\Debug\(Lab) Exercises.pdb

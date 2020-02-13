@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\05. GenericCountMethod\bin\Debug\_05.GenericCountMethod.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\05. GenericCountMethod\bin\Debug\_05.GenericCountMethod.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\05. GenericCountMethod\bin\Debug\_05.GenericCountMethod.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\05. GenericCountMethod\obj\Debug\05. GenericCountMethod.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\05. GenericCountMethod\obj\Debug\_05.GenericCountMethod.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\05. GenericCountMethod\obj\Debug\_05.GenericCountMethod.pdb

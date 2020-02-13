@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\10. Tuple\bin\Debug\_10.Tuple.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\10. Tuple\bin\Debug\_10.Tuple.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\10. Tuple\bin\Debug\_10.Tuple.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\10. Tuple\obj\Debug\10. Tuple.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\10. Tuple\obj\Debug\_10.Tuple.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\10. Tuple\obj\Debug\_10.Tuple.pdb

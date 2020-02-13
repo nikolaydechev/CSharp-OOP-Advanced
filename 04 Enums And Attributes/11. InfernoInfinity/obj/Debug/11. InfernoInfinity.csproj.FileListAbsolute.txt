@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\11. InfernoInfinity\bin\Debug\_11.InfernoInfinity.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\11. InfernoInfinity\bin\Debug\_11.InfernoInfinity.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\11. InfernoInfinity\bin\Debug\_11.InfernoInfinity.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\11. InfernoInfinity\obj\Debug\_11.InfernoInfinity.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\11. InfernoInfinity\obj\Debug\_11.InfernoInfinity.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\11. InfernoInfinity\obj\Debug\11. InfernoInfinity.csprojResolveAssemblyReference.cache

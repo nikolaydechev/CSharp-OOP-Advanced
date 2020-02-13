@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\09. LinkedListTraversal\bin\Debug\_09.LinkedListTraversal.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\09. LinkedListTraversal\bin\Debug\_09.LinkedListTraversal.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\09. LinkedListTraversal\bin\Debug\_09.LinkedListTraversal.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\09. LinkedListTraversal\obj\Debug\09. LinkedListTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\09. LinkedListTraversal\obj\Debug\_09.LinkedListTraversal.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\09. LinkedListTraversal\obj\Debug\_09.LinkedListTraversal.pdb

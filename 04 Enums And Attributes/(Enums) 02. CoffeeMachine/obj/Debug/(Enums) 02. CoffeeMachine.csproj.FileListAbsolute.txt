@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 02. CoffeeMachine\bin\Debug\_Enums__02.CoffeeMachine.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 02. CoffeeMachine\bin\Debug\_Enums__02.CoffeeMachine.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 02. CoffeeMachine\bin\Debug\_Enums__02.CoffeeMachine.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 02. CoffeeMachine\obj\Debug\(Enums) 02. CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 02. CoffeeMachine\obj\Debug\_Enums__02.CoffeeMachine.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 02. CoffeeMachine\obj\Debug\_Enums__02.CoffeeMachine.pdb

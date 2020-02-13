@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\07. CustomList\bin\Debug\_07.CustomList.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\07. CustomList\bin\Debug\_07.CustomList.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\07. CustomList\bin\Debug\_07.CustomList.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\07. CustomList\obj\Debug\07. CustomList.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\07. CustomList\obj\Debug\_07.CustomList.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\07. CustomList\obj\Debug\_07.CustomList.pdb

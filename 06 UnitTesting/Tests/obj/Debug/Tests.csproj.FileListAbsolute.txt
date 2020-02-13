@@ -1,0 +1,15 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\Tests.dll
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\Tests.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\nunit.framework.dll
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\_01.DataBase.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\_02.ListIterator.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\_01.DataBase.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\_02.ListIterator.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\nunit.framework.xml
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\obj\Debug\Tests.dll
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\obj\Debug\Tests.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\_03.BubbleSort.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\_03.BubbleSort.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\_06.Twitter.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\Tests\bin\Debug\_06.Twitter.pdb

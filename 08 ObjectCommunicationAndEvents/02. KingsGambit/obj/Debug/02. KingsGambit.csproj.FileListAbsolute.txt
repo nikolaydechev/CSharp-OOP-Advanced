@@ -1,0 +1,6 @@
+c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\02. KingsGambit\bin\Debug\_02.KingsGambit.exe.config
+c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\02. KingsGambit\bin\Debug\_02.KingsGambit.exe
+c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\02. KingsGambit\bin\Debug\_02.KingsGambit.pdb
+c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\02. KingsGambit\obj\Debug\02. KingsGambit.csprojResolveAssemblyReference.cache
+c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\02. KingsGambit\obj\Debug\_02.KingsGambit.exe
+c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\02. KingsGambit\obj\Debug\_02.KingsGambit.pdb

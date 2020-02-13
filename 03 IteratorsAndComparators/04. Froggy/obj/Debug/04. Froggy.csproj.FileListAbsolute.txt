@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\04. Froggy\bin\Debug\_04.Froggy.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\04. Froggy\bin\Debug\_04.Froggy.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\04. Froggy\bin\Debug\_04.Froggy.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\04. Froggy\obj\Debug\04. Froggy.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\04. Froggy\obj\Debug\_04.Froggy.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\04. Froggy\obj\Debug\_04.Froggy.pdb

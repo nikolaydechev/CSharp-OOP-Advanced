@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\08. PetClinics\bin\Debug\_08.PetClinics.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\08. PetClinics\bin\Debug\_08.PetClinics.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\08. PetClinics\bin\Debug\_08.PetClinics.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\08. PetClinics\obj\Debug\08. PetClinics.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\08. PetClinics\obj\Debug\_08.PetClinics.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\08. PetClinics\obj\Debug\_08.PetClinics.pdb

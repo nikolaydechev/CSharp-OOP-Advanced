@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\SOLID\Ex.2 Blobs\bin\Debug\02.Blobs.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\SOLID\Ex.2 Blobs\bin\Debug\02.Blobs.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\SOLID\Ex.2 Blobs\bin\Debug\02.Blobs.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\SOLID\Ex.2 Blobs\obj\Debug\02.Blobs.exe
+C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\SOLID\Ex.2 Blobs\obj\Debug\02.Blobs.pdb
