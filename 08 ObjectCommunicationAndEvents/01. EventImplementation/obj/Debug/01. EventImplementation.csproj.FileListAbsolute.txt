@@ -1,6 +1,0 @@
-c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\01. EventImplementation\bin\Debug\_01.EventImplementation.exe.config
-c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\01. EventImplementation\bin\Debug\_01.EventImplementation.exe
-c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\01. EventImplementation\bin\Debug\_01.EventImplementation.pdb
-c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\01. EventImplementation\obj\Debug\01. EventImplementation.csprojResolveAssemblyReference.cache
-c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\01. EventImplementation\obj\Debug\_01.EventImplementation.exe
-c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\01. EventImplementation\obj\Debug\_01.EventImplementation.pdb

@@ -1,6 +1,0 @@
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\01. Cards\bin\Debug\_01.Cards.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\01. Cards\bin\Debug\_01.Cards.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\01. Cards\bin\Debug\_01.Cards.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\01. Cards\obj\Debug\01. Cards.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\01. Cards\obj\Debug\_01.Cards.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\01. Cards\obj\Debug\_01.Cards.pdb

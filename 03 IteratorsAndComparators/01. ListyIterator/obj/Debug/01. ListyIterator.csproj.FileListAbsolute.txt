@@ -1,6 +1,0 @@
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\01. ListyIterator\bin\Debug\_01.ListyIterator.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\01. ListyIterator\bin\Debug\_01.ListyIterator.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\01. ListyIterator\bin\Debug\_01.ListyIterator.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\01. ListyIterator\obj\Debug\01. ListyIterator.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\01. ListyIterator\obj\Debug\_01.ListyIterator.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\01. ListyIterator\obj\Debug\_01.ListyIterator.pdb

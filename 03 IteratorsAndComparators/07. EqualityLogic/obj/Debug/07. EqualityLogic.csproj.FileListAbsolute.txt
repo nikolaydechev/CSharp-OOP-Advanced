@@ -1,5 +1,0 @@
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\07. EqualityLogic\bin\Debug\_07.EqualityLogic.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\07. EqualityLogic\bin\Debug\_07.EqualityLogic.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\07. EqualityLogic\bin\Debug\_07.EqualityLogic.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\07. EqualityLogic\obj\Debug\_07.EqualityLogic.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\07. EqualityLogic\obj\Debug\_07.EqualityLogic.pdb

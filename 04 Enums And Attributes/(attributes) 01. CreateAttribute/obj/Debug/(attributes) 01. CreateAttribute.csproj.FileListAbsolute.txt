@@ -1,6 +1,0 @@
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(attributes) 01. CreateAttribute\bin\Debug\_attributes__01.CreateAttribute.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(attributes) 01. CreateAttribute\bin\Debug\_attributes__01.CreateAttribute.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(attributes) 01. CreateAttribute\bin\Debug\_attributes__01.CreateAttribute.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(attributes) 01. CreateAttribute\obj\Debug\(attributes) 01. CreateAttribute.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(attributes) 01. CreateAttribute\obj\Debug\_attributes__01.CreateAttribute.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(attributes) 01. CreateAttribute\obj\Debug\_attributes__01.CreateAttribute.pdb

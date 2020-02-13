@@ -1,6 +1,0 @@
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\03. Stack\bin\Debug\_03.Stack.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\03. Stack\bin\Debug\_03.Stack.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\03. Stack\bin\Debug\_03.Stack.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\03. Stack\obj\Debug\03. Stack.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\03. Stack\obj\Debug\_03.Stack.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\03. Stack\obj\Debug\_03.Stack.pdb

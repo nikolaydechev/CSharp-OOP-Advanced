@@ -1,6 +1,0 @@
-c:\users\nikolai\documents\visual studio 2015\Projects\ObjectCommunicationAndEvents\03. DependencyInversion\bin\Debug\_03.DependencyInversion.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\ObjectCommunicationAndEvents\03. DependencyInversion\bin\Debug\_03.DependencyInversion.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\ObjectCommunicationAndEvents\03. DependencyInversion\bin\Debug\_03.DependencyInversion.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\ObjectCommunicationAndEvents\03. DependencyInversion\obj\Debug\03. DependencyInversion.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\ObjectCommunicationAndEvents\03. DependencyInversion\obj\Debug\_03.DependencyInversion.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\ObjectCommunicationAndEvents\03. DependencyInversion\obj\Debug\_03.DependencyInversion.pdb

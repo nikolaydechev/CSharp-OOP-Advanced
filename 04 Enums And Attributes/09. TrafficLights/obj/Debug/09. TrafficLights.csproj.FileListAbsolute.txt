@@ -1,6 +1,0 @@
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\09. TrafficLights\bin\Debug\_09.TrafficLights.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\09. TrafficLights\bin\Debug\_09.TrafficLights.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\09. TrafficLights\bin\Debug\_09.TrafficLights.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\09. TrafficLights\obj\Debug\09. TrafficLights.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\09. TrafficLights\obj\Debug\_09.TrafficLights.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\09. TrafficLights\obj\Debug\_09.TrafficLights.pdb

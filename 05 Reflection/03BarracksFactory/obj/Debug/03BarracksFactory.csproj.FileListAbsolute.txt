@@ -1,6 +1,0 @@
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Reflection\03BarracksFactory\bin\Debug\03BarracksFactory.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Reflection\03BarracksFactory\bin\Debug\03BarracksFactory.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Reflection\03BarracksFactory\bin\Debug\03BarracksFactory.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Reflection\03BarracksFactory\obj\Debug\03BarracksFactory.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Reflection\03BarracksFactory\obj\Debug\03BarracksFactory.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Reflection\03BarracksFactory\obj\Debug\03BarracksFactory.pdb

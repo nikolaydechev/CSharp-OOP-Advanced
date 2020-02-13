@@ -1,6 +1,0 @@
-c:\users\nikolai\documents\visual studio 2015\Projects\EnumsAndAttributes\(Enums) 01. Weekdays\bin\Debug\_Enums__01.Weekdays.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 01. Weekdays\bin\Debug\_Enums__01.Weekdays.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 01. Weekdays\bin\Debug\_Enums__01.Weekdays.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 01. Weekdays\obj\Debug\(Enums) 01. Weekdays.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 01. Weekdays\obj\Debug\_Enums__01.Weekdays.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\EnumsAndAttributes\(Enums) 01. Weekdays\obj\Debug\_Enums__01.Weekdays.pdb

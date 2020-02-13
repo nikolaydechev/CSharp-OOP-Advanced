@@ -1,6 +1,0 @@
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\06. StrategyPattern\bin\Debug\_06.StrategyPattern.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\06. StrategyPattern\bin\Debug\_06.StrategyPattern.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\06. StrategyPattern\bin\Debug\_06.StrategyPattern.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\06. StrategyPattern\obj\Debug\06. StrategyPattern.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\06. StrategyPattern\obj\Debug\_06.StrategyPattern.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\IteratorsAndComparators\06. StrategyPattern\obj\Debug\_06.StrategyPattern.pdb

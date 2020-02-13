@@ -1,6 +1,0 @@
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\03. GenericSwapMethod\bin\Debug\_03.GenericSwapMethod.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\03. GenericSwapMethod\bin\Debug\_03.GenericSwapMethod.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\03. GenericSwapMethod\bin\Debug\_03.GenericSwapMethod.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\03. GenericSwapMethod\obj\Debug\03. GenericSwapMethod.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\03. GenericSwapMethod\obj\Debug\_03.GenericSwapMethod.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Generics\03. GenericSwapMethod\obj\Debug\_03.GenericSwapMethod.pdb

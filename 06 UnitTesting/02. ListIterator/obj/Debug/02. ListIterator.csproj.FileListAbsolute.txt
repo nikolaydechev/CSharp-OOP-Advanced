@@ -1,6 +1,0 @@
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\02. ListIterator\bin\Debug\_02.ListIterator.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\02. ListIterator\bin\Debug\_02.ListIterator.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\02. ListIterator\bin\Debug\_02.ListIterator.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\02. ListIterator\obj\Debug\02. ListIterator.csprojResolveAssemblyReference.cache
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\02. ListIterator\obj\Debug\_02.ListIterator.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\UnitTesting\02. ListIterator\obj\Debug\_02.ListIterator.pdb

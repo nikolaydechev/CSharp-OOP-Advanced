@@ -1,5 +1,0 @@
-c:\users\nikolai\documents\visual studio 2015\Projects\Reflection\(Lab) Exercises\bin\Debug\(Lab) Exercises.exe.config
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Reflection\(Lab) Exercises\bin\Debug\(Lab) Exercises.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Reflection\(Lab) Exercises\bin\Debug\(Lab) Exercises.pdb
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Reflection\(Lab) Exercises\obj\Debug\(Lab) Exercises.exe
-C:\Users\Nikolai\Documents\Visual Studio 2015\Projects\Reflection\(Lab) Exercises\obj\Debug\(Lab) Exercises.pdb
